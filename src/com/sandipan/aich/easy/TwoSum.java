@@ -7,7 +7,6 @@ public class TwoSum {
 
 	public int[] twoSum(int[] nums, int target) {
 
-		int[] solution = new int[] { -1, -1 };
 		Map<Integer, Integer> valueIndexMap = new HashMap<>();
 		int len = nums.length;
 
