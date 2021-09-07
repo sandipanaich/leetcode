@@ -1,4 +1,4 @@
-package com.sandipan.aich.easy;
+package com.sandipan.aich.daily;
 
 public class SlowestKey {
 
