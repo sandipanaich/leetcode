@@ -1,4 +1,4 @@
-package com.sandipan.aich.study.plan.datastructure1.day1;
+package com.sandipan.aich.study.plan.datastructure1;
 
 public class MaximumSubarray {
 	
